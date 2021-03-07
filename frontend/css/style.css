@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#container {
+  width: 94%;
+  margin: 0 auto;
+}
+
+#container header {
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+#container header p {
+  font-size: 1.4rem;
+  font-weight: 900;
+  margin-left: 0.5rem;
+}
+
+#container > h1 {
+  margin: 3rem 0 1.5rem;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+#navers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#navers .naver {
+  width: 281px;
+  height: 400px;
+  margin-bottom: 1rem;
+}
+
+#navers .naver img {
+  width: 281px;
+  height: 300px;
+}
+
+#navers .naver strong {
+  font-weight: 600;
+}
+
+#navers .naver p {
+  font-weight: 400;
+}
+
