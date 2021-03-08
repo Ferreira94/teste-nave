@@ -62,7 +62,15 @@ $ yarn dev
 )
 
 ---
+<br>
+
+## 🤯 Desafio Banco de Dados
+Após clonar o repositório o arquivo Script.sql se encontrará na pasta raiz do projeto.
+
+---
 
 <br>
+
+Obs: Nas especificações do projeto foi passado que quando criar os navers passar os identificadores de quais projetos os navers participaram e quando criar os projetos passar os identificadores de quais navers participaram do projeto, ao invés disso eu fiz que quando for criar um projeto precisa do identificador de um naver válido e caso o nome do projeto já esteja no banco de dados e o identificador do naver seja diferente do que criou o projeto, ambos estarão participando do projeto.
 
 Feito por Luciano Ferreira
